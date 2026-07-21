@@ -42,7 +42,7 @@ pip install -r requirements.txt
 python run.py
 ```
 
-Then open: https://school-management-modernized.onrender.com/
+Then open: https://montfort-school.onrender.com/admin
 
 
 ## 📁 Project Structure
